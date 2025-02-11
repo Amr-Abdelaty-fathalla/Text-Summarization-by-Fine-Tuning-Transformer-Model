@@ -35,7 +35,9 @@ wandb login
 Then visualize metrics and logs in the W&B dashboard.
 
 ### Example Training Results from W&B  
-![-----------------------------------------------------](Text_Summarization_by_Fine_Tuning_Transformer_Model/weight and baises.png) 
+<p align="center">
+  <img src="Text_Summarization_by_Fine_Tuning_Transformer_Model/weight and baises.png" width="300px" height="250px">
+</p> 
 
 ## 📝 Inference  
 To generate summaries using the fine-tuned model:  
