@@ -36,7 +36,7 @@ Then visualize metrics and logs in the W&B dashboard.
 
 ### Example Training Results from W&B  
 <p align="center">
-  <img src="Text_Summarization_by_Fine_Tuning_Transformer_Model/weight and baises.png" width="300px" height="250px">
+  <img src="Text_Summarization_by_Fine_Tuning_Transformer_Model/weight and baises.png" width="800px" height="250px">
 </p> 
 
 ## 📝 Inference  
